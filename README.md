@@ -1,49 +1,65 @@
-<h1>👋 Hey there! I'm Amr Amer</h1>
+<h1 align="center">Hi 👋, I'm Amr Amer</h1>
+<h3 align="center">Machine Learning Engineer | Data Scientist</h3>
 
-<p><strong>Penetration Tester</strong> | <strong>Bug Hunter</strong> | <strong>Security Researcher</strong></p>
-
-<p>Welcome to my GitHub profile! I’m <strong>Amr Amer</strong>, a passionate cybersecurity professional with hands-on experience in:</p>
-
-<ul>
-  <li>🕷 Web Application Penetration Testing</li>
-  <li>🔍 Vulnerability Assessment & Exploitation</li>
-  <li>💡 Bug Hunting on platforms like HackerOne & Bugcrowd</li>
-  <li>🐍 Scripting and automation with <strong>Python</strong></li>
-  <li>⚔ XSS, IDOR, SSRF, and other OWASP Top 10 vulnerabilities</li>
-  <li>💻 JavaScript exploitation for frontend-based attack surfaces</li>
-</ul>
-
----
-
-### 🛠️ Tools & Technologies I Use
-
-<p>
-  <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp_Suite-orange?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-004170?style=flat-square&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="OWASP Zap" src="https://img.shields.io/badge/-OWASP_ZAP-000000?style=flat-square&logo=OWASP&logoColor=white" />
-  <img alt="Hack The Box" src="https://img.shields.io/badge/-Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" />
+<p align="center">
+  Passionate about turning data into impactful solutions using Machine Learning, Deep Learning, and real-world applications. 
 </p>
 
 ---
 
-### 🧠 Certifications & Learning
+### 🚀 About Me
 
-- 🛡️ Currently preparing for **eJPT**, **OSCP**
-- 📚 Self-learning through labs like Hack The Box, TryHackMe, and real-world bug bounty reports
+- 🔭 I’m currently working on **real-world ML projects** and solving data problems that make a difference.
+- 🌱 I’m currently learning: **Deep Learning**, **MLOps**, and **Model Deployment**.
+- 🧠 Interested in: **Computer Vision**, **NLP**, **Reinforcement Learning**.
+- 💬 Ask me about: Python, Pandas, Scikit-learn, TensorFlow, PyTorch.
+- 📫 Reach me at: **[your.email@example.com]**
+- ⚡ Fun fact: I love building tools that automate boring tasks 😄
 
 ---
 
-### 🔗 Connect with me
+### 🛠️ Languages & Tools
 
-<p>
-  <a href="https://x.com/ameerxx98" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ameerrrxx98" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-<p align="center"><i>“Hacking is not a crime, it's a mindset.”</i></p>
+### 📂 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🤖 **Fake News Detector** | A machine learning model to classify fake vs real news using NLP |
+| 📊 **EDA Dashboard** | Exploratory Data Analysis dashboard using Plotly and Streamlit |
+| 🧠 **MNIST Classifier** | Deep learning project using CNN on handwritten digits |
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium)](https://medium.com/@YOUR_USERNAME)
+
+---
+
+### 🧰 My Philosophy
+
+> "Code like a scientist, think like a product manager, and always stay curious."
